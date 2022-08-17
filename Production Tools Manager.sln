@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Production Tools Manager", "Production Tools Manager\Production Tools Manager.csproj", "{5EDDD872-2842-4D3B-A56E-654611012361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArdeshirV.ProductionToolsManagerFeeder", "ArdeshirV.ProductionToolsManagerFeeder\ArdeshirV.ProductionToolsManagerFeeder.csproj", "{CFBF5498-D6B8-40CA-939B-20BF42D629C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EDDD872-2842-4D3B-A56E-654611012361}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EDDD872-2842-4D3B-A56E-654611012361}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EDDD872-2842-4D3B-A56E-654611012361}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EDDD872-2842-4D3B-A56E-654611012361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFBF5498-D6B8-40CA-939B-20BF42D629C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFBF5498-D6B8-40CA-939B-20BF42D629C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFBF5498-D6B8-40CA-939B-20BF42D629C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFBF5498-D6B8-40CA-939B-20BF42D629C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
